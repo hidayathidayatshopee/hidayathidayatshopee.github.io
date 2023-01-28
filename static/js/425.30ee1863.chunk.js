@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkfrontend=self.webpackChunkfrontend||[]).push([[425],{4425:function(n,e,r){r.r(e);var c=r(5777),t=r(7689),u=r(8802),f=r(184);e.default=function(){var n=(0,t.s0)();return(0,f.jsx)(c.zx,{onClick:function(){n(u.Z.SELLER_PRODUCT_CREATE,{replace:!0})},children:"Add Product"})}}}]);
+//# sourceMappingURL=425.30ee1863.chunk.js.map
