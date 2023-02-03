@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkfrontend=self.webpackChunkfrontend||[]).push([[7233],{7233:function(n,e,r){r.r(e);var t=r(46417);e.default=function(){return(0,t.jsx)("div",{children:(0,t.jsx)("h1",{children:"Page Not Found"})})}}}]);

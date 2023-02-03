@@ -1,2 +1,0 @@
-"use strict";(self.webpackChunkfrontend=self.webpackChunkfrontend||[]).push([[1816],{11816:function(n,e,t){t.r(e);var o=t(72791),c=t(80184);e.default=function(){return(0,o.useEffect)((function(){window.top&&window.top.history.replaceState({search:window.location.search},"","".concat(window.top.location.href))}),[]),(0,c.jsx)("h1",{children:"Redirecting you..."})}}}]);
-//# sourceMappingURL=1816.ee3edc98.chunk.js.map

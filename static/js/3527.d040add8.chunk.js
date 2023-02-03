@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkfrontend=self.webpackChunkfrontend||[]).push([[3527],{53527:function(n,e,t){t.r(e);var o=t(47313),c=t(46417);e.default=function(){return(0,o.useEffect)((function(){window.top&&window.top.history.replaceState({search:window.location.search},"","".concat(window.top.location.href))}),[]),(0,c.jsx)("h1",{children:"Redirecting you..."})}}}]);

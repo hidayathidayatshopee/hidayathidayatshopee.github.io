@@ -1,2 +1,0 @@
-"use strict";(self.webpackChunkfrontend=self.webpackChunkfrontend||[]).push([[2744],{32744:function(n,e,r){r.r(e);var t=r(80184);e.default=function(){return(0,t.jsx)("div",{children:(0,t.jsx)("h1",{children:"Page Not Found"})})}}}]);
-//# sourceMappingURL=2744.d0ea3941.chunk.js.map
