@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkfrontend=self.webpackChunkfrontend||[]).push([[5113],{95083:function(n,e,r){r.r(e);var s=r(43964),t=r(5731),c=r(46417);e.default=function(){return(0,c.jsx)(s.W2,{maxW:{base:"container.sm",lg:"container.xl"},children:(0,c.jsx)(s.xu,{my:10,children:(0,c.jsx)(t.Z,{})})})}}}]);
